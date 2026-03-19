@@ -1,9 +1,25 @@
-- 👋 Hi, I’m @Elethuswrld
-- 👀 I’m interested in Software Development, or let me just say anything that includes coding as work.
-- 🌱 I’m currently studying to become a Software Development, but that's not all when im done with studying this course i want to venture more on programming languages to increase my knowledge as an upcoming Coder.
-- 💞️ I’m looking to collaborate on projects with people so that I can grow as a person who has dreams and goals to chase on this industry.
-- 📫 You can reach me by sending a text on my email: Elethuelza03@gmail.com
-<!---
-Elethuswrld/Elethuswrld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hi, I’m @Elethuswrld
+
+![Profile Banner](https://img.shields.io/badge/Status-Learning%20Code-blue)
+![GitHub Followers](https://img.shields.io/github/followers/Elethuswrld?label=Follow&style=social)
+
+## 👀 About Me
+I’m passionate about **Software Development**—basically, anything that involves coding.  
+Currently, I’m studying Software Development, but I plan to dive into **more programming languages** to grow as a coder.  
+
+## 🌱 Skills & Interests
+- Programming Languages: Python, JavaScript, HTML, CSS (more to come!)  
+- Web Development & App Development  
+- Learning new frameworks and tech tools  
+- Building projects that solve real problems  
+
+## 💞️ Collaboration
+I’m open to collaborating on projects, learning together, and turning **dreams into reality**.  
+If you’re working on something exciting, let’s connect!  
+
+## 📫 Contact Me
+📧 Email: [Elethuelza03@gmail.com](mailto:Elethuelza03@gmail.com)  
+
+---
+
+✨ Let’s code, learn, and build something amazing together! ✨
