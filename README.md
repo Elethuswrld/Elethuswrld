@@ -1,25 +1,30 @@
-# 👋 Hi, I’m @Elethuswrld
+# 👋 Yo, I’m @Elethuswrld
 
-![Profile Banner](https://img.shields.io/badge/Status-Learning%20Code-blue)
-![GitHub Followers](https://img.shields.io/github/followers/Elethuswrld?label=Follow&style=social)
+> Coding is my playground, software dev is my game, and growth is my mission. 🚀
 
-## 👀 About Me
-I’m passionate about **Software Development**—basically, anything that involves coding.  
-Currently, I’m studying Software Development, but I plan to dive into **more programming languages** to grow as a coder.  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Elethuswrld&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elethuswrld&layout=compact&theme=tokyonight)
+
+## 👀 What I’m About
+I’m all about **Software Development**—anything with code.  
+Currently leveling up in **Software Development studies**, but once I finish, I’ll dive into **more programming languages** to crush it as an upcoming coder.  
 
 ## 🌱 Skills & Interests
-- Programming Languages: Python, JavaScript, HTML, CSS (more to come!)  
-- Web Development & App Development  
-- Learning new frameworks and tech tools  
-- Building projects that solve real problems  
+- **Languages:** Python, JavaScript, HTML, CSS (and hungry for more)  
+- **Development:** Web & App Development  
+- **Mindset:** Problem-solving, building real projects, learning fast  
 
-## 💞️ Collaboration
-I’m open to collaborating on projects, learning together, and turning **dreams into reality**.  
-If you’re working on something exciting, let’s connect!  
+## 💞️ Collabs & Projects
+Here to **team up, grind, and grow**. Got a project? Let’s make it happen. No fluff—just results.  
 
-## 📫 Contact Me
-📧 Email: [Elethuelza03@gmail.com](mailto:Elethuelza03@gmail.com)  
+## 🔭 Currently Learning
+- Advanced JS frameworks (React & Node.js)  
+- API integration & backend logic  
+- Design patterns and clean coding  
+
+## 📫 Hit Me Up
+📧 [Elethuelza03@gmail.com](mailto:Elethuelza03@gmail.com)  
 
 ---
 
-✨ Let’s code, learn, and build something amazing together! ✨
+✨ Let’s build, break, learn, repeat. That’s the coder life. ✨
